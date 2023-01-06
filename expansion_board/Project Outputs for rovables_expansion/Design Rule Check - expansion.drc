@@ -1,0 +1,402 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\darre\Documents\rovables_expansion\expansion_board\expansion.PcbDoc
+Date     : 1/5/2023
+Time     : 6:27:46 PM
+
+WARNING: Zero hole size multi-layer pad(s) detected
+   Pad P5-2(3101.63mil,1840mil) on Multi-Layer on Net GND
+   Pad P5-1(3040.685mil,1891.181mil) on Multi-Layer on Net VCC
+   Pad P5-1(3101.63mil,1891.181mil) on Multi-Layer on Net VCC
+   Pad P5-2(3039.701mil,1840.022mil) on Multi-Layer on Net GND
+   Pad P5-3(3039.858mil,1788.661mil) on Multi-Layer on Net SDA
+   Pad P5-3(3102.457mil,1788.976mil) on Multi-Layer on Net SDA
+   Pad P5-4(3040.398mil,1737.244mil) on Multi-Layer on Net SCL
+   Pad P5-4(3102.614mil,1737.638mil) on Multi-Layer on Net SCL
+   Pad P2-2(3209.871mil,1997.305mil) on Multi-Layer on Net GND
+   Pad P2-1(3243.535mil,2069.42mil) on Multi-Layer on Net VCC
+   Pad P2-1(3259.309mil,2010.552mil) on Multi-Layer on Net VCC
+   Pad P2-2(3193.864mil,2057.13mil) on Multi-Layer on Net GND
+   Pad P2-3(3144.294mil,2043.685mil) on Multi-Layer on Net SDA
+   Pad P2-3(3160.8mil,1983.301mil) on Multi-Layer on Net SDA
+   Pad P2-4(3094.769mil,2029.856mil) on Multi-Layer on Net SCL
+   Pad P2-4(3111.252mil,1969.861mil) on Multi-Layer on Net SCL
+   Pad P4-2(3789.37mil,1791mil) on Multi-Layer on Net GND
+   Pad P4-1(3850.315mil,1739.819mil) on Multi-Layer on Net VCC
+   Pad P4-1(3789.37mil,1739.819mil) on Multi-Layer on Net VCC
+   Pad P4-2(3851.299mil,1790.978mil) on Multi-Layer on Net GND
+   Pad P4-3(3851.142mil,1842.339mil) on Multi-Layer on Net SDA
+   Pad P4-3(3788.543mil,1842.024mil) on Multi-Layer on Net SDA
+   Pad P4-4(3850.602mil,1893.756mil) on Multi-Layer on Net SCL
+   Pad P4-4(3788.386mil,1893.362mil) on Multi-Layer on Net SCL
+   Pad P3-4(3630.532mil,2011.616mil) on Multi-Layer on Net SCL
+   Pad P3-4(3646.254mil,2071.814mil) on Multi-Layer on Net SCL
+   Pad P3-3(3680.162mil,1998.48mil) on Multi-Layer on Net SDA
+   Pad P3-3(3696.059mil,2059.027mil) on Multi-Layer on Net SDA
+   Pad P3-2(3745.71mil,2045.887mil) on Multi-Layer on Net GND
+   Pad P3-1(3779.098mil,1972.826mil) on Multi-Layer on Net VCC
+   Pad P3-1(3794.872mil,2031.695mil) on Multi-Layer on Net VCC
+   Pad P3-2(3729.661mil,1986.073mil) on Multi-Layer on Net GND
+   Pad P1-4(3365.819mil,1977.701mil) on Multi-Layer on Net SCL
+   Pad P1-4(3365.425mil,2039.917mil) on Multi-Layer on Net SCL
+   Pad P1-3(3417.157mil,1977.858mil) on Multi-Layer on Net SDA
+   Pad P1-3(3416.843mil,2040.457mil) on Multi-Layer on Net SDA
+   Pad P1-2(3468.203mil,2040.614mil) on Multi-Layer on Net GND
+   Pad P1-1(3519.362mil,1978.685mil) on Multi-Layer on Net VCC
+   Pad P1-1(3519.362mil,2039.63mil) on Multi-Layer on Net VCC
+   Pad P1-2(3468.181mil,1978.685mil) on Multi-Layer on Net GND
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad P5-2(3101.63mil,1840mil) on Multi-Layer
+   Pad P5-1(3040.685mil,1891.181mil) on Multi-Layer
+   Pad P5-1(3101.63mil,1891.181mil) on Multi-Layer
+   Pad P5-2(3039.701mil,1840.022mil) on Multi-Layer
+   Pad P5-3(3039.858mil,1788.661mil) on Multi-Layer
+   Pad P5-3(3102.457mil,1788.976mil) on Multi-Layer
+   Pad P5-4(3040.398mil,1737.244mil) on Multi-Layer
+   Pad P5-4(3102.614mil,1737.638mil) on Multi-Layer
+   Pad P2-2(3209.871mil,1997.305mil) on Multi-Layer
+   Pad P2-1(3243.535mil,2069.42mil) on Multi-Layer
+   Pad P2-1(3259.309mil,2010.552mil) on Multi-Layer
+   Pad P2-2(3193.864mil,2057.13mil) on Multi-Layer
+   Pad P2-3(3144.294mil,2043.685mil) on Multi-Layer
+   Pad P2-3(3160.8mil,1983.301mil) on Multi-Layer
+   Pad P2-4(3094.769mil,2029.856mil) on Multi-Layer
+   Pad P2-4(3111.252mil,1969.861mil) on Multi-Layer
+   Pad P4-2(3789.37mil,1791mil) on Multi-Layer
+   Pad P4-1(3850.315mil,1739.819mil) on Multi-Layer
+   Pad P4-1(3789.37mil,1739.819mil) on Multi-Layer
+   Pad P4-2(3851.299mil,1790.978mil) on Multi-Layer
+   Pad P4-3(3851.142mil,1842.339mil) on Multi-Layer
+   Pad P4-3(3788.543mil,1842.024mil) on Multi-Layer
+   Pad P4-4(3850.602mil,1893.756mil) on Multi-Layer
+   Pad P4-4(3788.386mil,1893.362mil) on Multi-Layer
+   Pad P3-4(3630.532mil,2011.616mil) on Multi-Layer
+   Pad P3-4(3646.254mil,2071.814mil) on Multi-Layer
+   Pad P3-3(3680.162mil,1998.48mil) on Multi-Layer
+   Pad P3-3(3696.059mil,2059.027mil) on Multi-Layer
+   Pad P3-2(3745.71mil,2045.887mil) on Multi-Layer
+   Pad P3-1(3779.098mil,1972.826mil) on Multi-Layer
+   Pad P3-1(3794.872mil,2031.695mil) on Multi-Layer
+   Pad P3-2(3729.661mil,1986.073mil) on Multi-Layer
+   Pad P1-4(3365.819mil,1977.701mil) on Multi-Layer
+   Pad P1-4(3365.425mil,2039.917mil) on Multi-Layer
+   Pad P1-3(3417.157mil,1977.858mil) on Multi-Layer
+   Pad P1-3(3416.843mil,2040.457mil) on Multi-Layer
+   Pad P1-2(3468.203mil,2040.614mil) on Multi-Layer
+   Pad P1-1(3519.362mil,1978.685mil) on Multi-Layer
+   Pad P1-1(3519.362mil,2039.63mil) on Multi-Layer
+   Pad P1-2(3468.181mil,1978.685mil) on Multi-Layer
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-1(3519.362mil,1978.685mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-1(3519.362mil,1999.315mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-1(3519.362mil,2019mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-1(3519.362mil,2039.63mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-2(3468.181mil,1978.685mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-2(3468.181mil,1999.315mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-2(3468.181mil,2018.921mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-2(3468.203mil,2040.614mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-3(3416.843mil,2040.457mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-3(3417.157mil,1977.858mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-3(3417mil,1999.315mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-3(3417mil,2019mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-4(3365.425mil,1999.315mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-4(3365.425mil,2019mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-4(3365.425mil,2039.917mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-4(3365.819mil,1977.701mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-1(3243.535mil,2069.42mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-1(3248.874mil,2049.493mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-1(3253.969mil,2030.479mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-1(3259.309mil,2010.552mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-2(3193.864mil,2057.13mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-2(3199.457mil,2036.171mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-2(3204.532mil,2017.232mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-2(3209.871mil,1997.305mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-3(3144.294mil,2043.685mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-3(3150mil,2023mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-3(3155.095mil,2003.986mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-3(3160.8mil,1983.301mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-4(3094.769mil,2029.856mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-4(3100.182mil,2009.651mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-4(3105.277mil,1990.637mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-4(3111.252mil,1969.861mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-1(3779.098mil,1972.826mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-1(3784.437mil,1992.754mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-1(3789.532mil,2011.768mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-1(3794.872mil,2031.695mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-2(3729.661mil,1986.073mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-2(3735mil,2006mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-2(3740.075mil,2024.938mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-2(3745.71mil,2045.887mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-3(3680.162mil,1998.48mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-3(3685.563mil,2019.247mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-3(3690.658mil,2038.261mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-3(3696.059mil,2059.027mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-4(3630.532mil,2011.616mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-4(3635.745mil,2032.595mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-4(3640.84mil,2051.61mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-4(3646.254mil,2071.814mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-1(3789.37mil,1739.819mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-1(3810mil,1739.819mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-1(3829.685mil,1739.819mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-1(3850.315mil,1739.819mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-2(3789.37mil,1791mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-2(3810mil,1791mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-2(3829.606mil,1791mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-2(3851.299mil,1790.978mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-3(3788.543mil,1842.024mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-3(3810mil,1842.181mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-3(3829.685mil,1842.181mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-3(3851.142mil,1842.339mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-4(3788.386mil,1893.362mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-4(3810mil,1893.756mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-4(3829.685mil,1893.756mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-4(3850.602mil,1893.756mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-1(3040.685mil,1891.181mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-1(3061.315mil,1891.181mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-1(3081mil,1891.181mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-1(3101.63mil,1891.181mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-2(3039.701mil,1840.022mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-2(3061.394mil,1840mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-2(3081mil,1840mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-2(3101.63mil,1840mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-3(3039.858mil,1788.661mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-3(3061.315mil,1788.819mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-3(3081mil,1788.819mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-3(3102.457mil,1788.976mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-4(3040.398mil,1737.244mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-4(3061.315mil,1737.244mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-4(3081mil,1737.244mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-4(3102.614mil,1737.638mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3061.315mil,1788.819mil)(3081mil,1788.819mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3081mil,1788.819mil)(3102.457mil,1788.819mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3417mil,1999.315mil)(3417mil,2019mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3417mil,2019mil)(3417mil,2059mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3789.532mil,2011.768mil)(3840.232mil,2011.768mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Pad P4-3(3788.543mil,1842.024mil) on Multi-Layer And Track (3718mil,1863mil)(3788.567mil,1863mil) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Pad P4-3(3788.543mil,1842.024mil) on Multi-Layer And Track (3788.567mil,1863mil)(3789.386mil,1862.181mil) on Bottom Layer 
+   Violation between Clearance Constraint: (7.695mil < 9.842mil) Between Hole of Pad P4-3(3810mil,1842.181mil) on Multi-Layer And Track (3718mil,1863mil)(3788.567mil,1863mil) on Bottom Layer 
+   Violation between Clearance Constraint: (6.537mil < 9.842mil) Between Hole of Pad P4-3(3810mil,1842.181mil) on Multi-Layer And Track (3788.567mil,1863mil)(3789.386mil,1862.181mil) on Bottom Layer 
+Rule Violations :89
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-1(3519.362mil,1978.685mil) on Multi-Layer Location : [X = 3519.362mil][Y = 2000.339mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-1(3519.362mil,1999.315mil) on Multi-Layer Location : [X = 3519.362mil][Y = 2009.158mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-1(3519.362mil,2019mil) on Multi-Layer Location : [X = 3519.362mil][Y = 2009.158mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-1(3519.362mil,2039.63mil) on Multi-Layer Location : [X = 3519.362mil][Y = 2017.976mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-2(3468.181mil,1978.685mil) on Multi-Layer Location : [X = 3468.362mil][Y = 2000.339mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-2(3468.181mil,1999.315mil) on Multi-Layer Location : [X = 3468.181mil][Y = 2009.158mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-2(3468.181mil,2018.921mil) on Multi-Layer Location : [X = 3468.181mil][Y = 2009.158mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-2(3468.203mil,2040.614mil) on Multi-Layer Location : [X = 3468.203mil][Y = 2018.961mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-3(3416.843mil,2040.457mil) on Multi-Layer Location : [X = 3416.843mil][Y = 2018.803mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-3(3417.157mil,1977.858mil) on Multi-Layer Location : [X = 3417.157mil][Y = 1999.512mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-3(3417mil,1999.315mil) on Multi-Layer Location : [X = 3417mil][Y = 2009.158mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-3(3417mil,2019mil) on Multi-Layer Location : [X = 3417mil][Y = 2009.158mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-4(3365.425mil,1999.315mil) on Multi-Layer Location : [X = 3365.425mil][Y = 2009.158mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-4(3365.425mil,2019mil) on Multi-Layer Location : [X = 3365.425mil][Y = 2009.158mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-4(3365.425mil,2039.917mil) on Multi-Layer Location : [X = 3365.425mil][Y = 2018.264mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P1-4(3365.819mil,1977.701mil) on Multi-Layer Location : [X = 3365.819mil][Y = 1999.354mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-1(3243.535mil,2069.42mil) on Multi-Layer Location : [X = 3249.139mil][Y = 2048.505mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-1(3248.874mil,2049.493mil) on Multi-Layer Location : [X = 3249.19mil][Y = 2042.184mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-1(3253.969mil,2030.479mil) on Multi-Layer Location : [X = 3253.653mil][Y = 2037.788mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-1(3259.309mil,2010.552mil) on Multi-Layer Location : [X = 3253.704mil][Y = 2031.468mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-2(3193.864mil,2057.13mil) on Multi-Layer Location : [X = 3199.468mil][Y = 2036.214mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-2(3199.457mil,2036.171mil) on Multi-Layer Location : [X = 3199.767mil][Y = 2028.899mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-2(3204.532mil,2017.232mil) on Multi-Layer Location : [X = 3204.216mil][Y = 2024.542mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-2(3209.871mil,1997.305mil) on Multi-Layer Location : [X = 3204.457mil][Y = 2018.268mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-3(3144.294mil,2043.685mil) on Multi-Layer Location : [X = 3149.899mil][Y = 2022.769mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-3(3150mil,2023mil) on Multi-Layer Location : [X = 3150.316mil][Y = 2015.691mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-3(3155.095mil,2003.986mil) on Multi-Layer Location : [X = 3154.779mil][Y = 2011.295mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-3(3160.8mil,1983.301mil) on Multi-Layer Location : [X = 3155.196mil][Y = 2004.216mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-4(3094.769mil,2029.856mil) on Multi-Layer Location : [X = 3100.373mil][Y = 2008.94mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-4(3100.182mil,2009.651mil) on Multi-Layer Location : [X = 3100.498mil][Y = 2002.342mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-4(3105.277mil,1990.637mil) on Multi-Layer Location : [X = 3104.962mil][Y = 1997.946mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P2-4(3111.252mil,1969.861mil) on Multi-Layer Location : [X = 3105.648mil][Y = 1990.777mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-1(3779.098mil,1972.826mil) on Multi-Layer Location : [X = 3784.702mil][Y = 1993.742mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-1(3784.437mil,1992.754mil) on Multi-Layer Location : [X = 3784.753mil][Y = 2000.063mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-1(3789.532mil,2011.768mil) on Multi-Layer Location : [X = 3789.216mil][Y = 2004.459mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-1(3794.872mil,2031.695mil) on Multi-Layer Location : [X = 3789.267mil][Y = 2010.779mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-2(3729.661mil,1986.073mil) on Multi-Layer Location : [X = 3735.44mil][Y = 2006.938mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-2(3735mil,2006mil) on Multi-Layer Location : [X = 3735.316mil][Y = 2013.309mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-2(3740.075mil,2024.938mil) on Multi-Layer Location : [X = 3739.765mil][Y = 2017.666mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-2(3745.71mil,2045.887mil) on Multi-Layer Location : [X = 3740.106mil][Y = 2024.971mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-3(3680.162mil,1998.48mil) on Multi-Layer Location : [X = 3685.766mil][Y = 2019.396mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-3(3685.563mil,2019.247mil) on Multi-Layer Location : [X = 3685.879mil][Y = 2026.556mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-3(3690.658mil,2038.261mil) on Multi-Layer Location : [X = 3690.342mil][Y = 2030.952mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-3(3696.059mil,2059.027mil) on Multi-Layer Location : [X = 3690.455mil][Y = 2038.112mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-4(3630.532mil,2011.616mil) on Multi-Layer Location : [X = 3636.136mil][Y = 2032.532mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-4(3635.745mil,2032.595mil) on Multi-Layer Location : [X = 3636.061mil][Y = 2039.905mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-4(3640.84mil,2051.61mil) on Multi-Layer Location : [X = 3640.524mil][Y = 2044.301mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P3-4(3646.254mil,2071.814mil) on Multi-Layer Location : [X = 3640.65mil][Y = 2050.898mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-1(3789.37mil,1739.819mil) on Multi-Layer Location : [X = 3811.024mil][Y = 1739.819mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-1(3810mil,1739.819mil) on Multi-Layer Location : [X = 3819.843mil][Y = 1739.819mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-1(3829.685mil,1739.819mil) on Multi-Layer Location : [X = 3819.843mil][Y = 1739.819mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-1(3850.315mil,1739.819mil) on Multi-Layer Location : [X = 3828.662mil][Y = 1739.819mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-2(3789.37mil,1791mil) on Multi-Layer Location : [X = 3811.024mil][Y = 1790.819mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-2(3810mil,1791mil) on Multi-Layer Location : [X = 3819.843mil][Y = 1791mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-2(3829.606mil,1791mil) on Multi-Layer Location : [X = 3819.843mil][Y = 1791mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-2(3851.299mil,1790.978mil) on Multi-Layer Location : [X = 3829.646mil][Y = 1790.978mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-3(3788.543mil,1842.024mil) on Multi-Layer Location : [X = 3810.197mil][Y = 1842.024mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-3(3810mil,1842.181mil) on Multi-Layer Location : [X = 3819.843mil][Y = 1842.181mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-3(3829.685mil,1842.181mil) on Multi-Layer Location : [X = 3819.843mil][Y = 1842.181mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-3(3851.142mil,1842.339mil) on Multi-Layer Location : [X = 3829.488mil][Y = 1842.339mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-4(3788.386mil,1893.362mil) on Multi-Layer Location : [X = 3810.039mil][Y = 1893.362mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-4(3810mil,1893.756mil) on Multi-Layer Location : [X = 3819.843mil][Y = 1893.756mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-4(3829.685mil,1893.756mil) on Multi-Layer Location : [X = 3819.843mil][Y = 1893.756mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P4-4(3850.602mil,1893.756mil) on Multi-Layer Location : [X = 3828.949mil][Y = 1893.756mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-1(3040.685mil,1891.181mil) on Multi-Layer Location : [X = 3062.338mil][Y = 1891.181mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-1(3061.315mil,1891.181mil) on Multi-Layer Location : [X = 3071.157mil][Y = 1891.181mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-1(3081mil,1891.181mil) on Multi-Layer Location : [X = 3071.157mil][Y = 1891.181mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-1(3101.63mil,1891.181mil) on Multi-Layer Location : [X = 3079.976mil][Y = 1891.181mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-2(3039.701mil,1840.022mil) on Multi-Layer Location : [X = 3061.354mil][Y = 1840.022mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-2(3061.394mil,1840mil) on Multi-Layer Location : [X = 3071.157mil][Y = 1840mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-2(3081mil,1840mil) on Multi-Layer Location : [X = 3071.157mil][Y = 1840mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-2(3101.63mil,1840mil) on Multi-Layer Location : [X = 3079.976mil][Y = 1840.181mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-3(3039.858mil,1788.661mil) on Multi-Layer Location : [X = 3061.512mil][Y = 1788.661mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-3(3061.315mil,1788.819mil) on Multi-Layer Location : [X = 3071.157mil][Y = 1788.819mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-3(3081mil,1788.819mil) on Multi-Layer Location : [X = 3071.157mil][Y = 1788.819mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-3(3102.457mil,1788.976mil) on Multi-Layer Location : [X = 3080.803mil][Y = 1788.976mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-4(3040.398mil,1737.244mil) on Multi-Layer Location : [X = 3062.051mil][Y = 1737.244mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-4(3061.315mil,1737.244mil) on Multi-Layer Location : [X = 3071.157mil][Y = 1737.244mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-4(3081mil,1737.244mil) on Multi-Layer Location : [X = 3071.157mil][Y = 1737.244mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad P5-4(3102.614mil,1737.638mil) on Multi-Layer Location : [X = 3080.961mil][Y = 1737.638mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3061.315mil,1788.819mil)(3081mil,1788.819mil) on Top Layer Location : [X = 3071.157mil][Y = 1788.819mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3081mil,1788.819mil)(3102.457mil,1788.819mil) on Top Layer Location : [X = 3079.725mil][Y = 1788.819mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3417mil,1999.315mil)(3417mil,2019mil) on Top Layer Location : [X = 3417mil][Y = 2009.158mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3417mil,2019mil)(3417mil,2059mil) on Top Layer Location : [X = 3417mil][Y = 2017.726mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3789.532mil,2011.768mil)(3840.232mil,2011.768mil) on Top Layer Location : [X = 3793.014mil][Y = 2010.818mil]
+   Violation between Short-Circuit Constraint: Between Pad P4-3(3788.543mil,1842.024mil) on Multi-Layer And Track (3718mil,1863mil)(3788.567mil,1863mil) on Bottom Layer Location : [X = 3785.069mil][Y = 1861.08mil]
+   Violation between Short-Circuit Constraint: Between Pad P4-3(3788.543mil,1842.024mil) on Multi-Layer And Track (3788.567mil,1863mil)(3789.386mil,1862.181mil) on Bottom Layer Location : [X = 3789.132mil][Y = 1860.67mil]
+Rule Violations :87
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net SCL Between Pad P4-4(3788.386mil,1893.362mil) on Multi-Layer And Track (3788.567mil,1863mil)(3789.386mil,1862.181mil) on Bottom Layer 
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=1000mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=11.811mil) (Conductor Width=5mil) (Air Gap=5mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
+   Violation between Minimum Annular Ring: (No Ring) Pad P1-1(3519.362mil,1999.315mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P1-1(3519.362mil,2019mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P1-2(3468.181mil,1999.315mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P1-2(3468.181mil,2018.921mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P1-3(3417mil,1999.315mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P1-3(3417mil,2019mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P1-4(3365.425mil,1999.315mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P1-4(3365.425mil,2019mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P2-1(3248.874mil,2049.493mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P2-1(3253.969mil,2030.479mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P2-2(3199.457mil,2036.171mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P2-2(3204.532mil,2017.232mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P2-3(3150mil,2023mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P2-3(3155.095mil,2003.986mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P2-4(3100.182mil,2009.651mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P2-4(3105.277mil,1990.637mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P3-1(3784.437mil,1992.754mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P3-1(3789.532mil,2011.768mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P3-2(3735mil,2006mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P3-2(3740.075mil,2024.938mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P3-3(3685.563mil,2019.247mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P3-3(3690.658mil,2038.261mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P3-4(3635.745mil,2032.595mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P3-4(3640.84mil,2051.61mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P4-1(3810mil,1739.819mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P4-1(3829.685mil,1739.819mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P4-2(3810mil,1791mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P4-2(3829.606mil,1791mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P4-3(3810mil,1842.181mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P4-3(3829.685mil,1842.181mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P4-4(3810mil,1893.756mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P4-4(3829.685mil,1893.756mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P5-1(3061.315mil,1891.181mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P5-1(3081mil,1891.181mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P5-2(3061.394mil,1840mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P5-2(3081mil,1840mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P5-3(3061.315mil,1788.819mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P5-3(3081mil,1788.819mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P5-4(3061.315mil,1737.244mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad P5-4(3081mil,1737.244mil) on Multi-Layer (Annular Ring missing on Top Layer)
+Rule Violations :40
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=9.842mil) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P1-1(3519.362mil,1999.315mil) on Multi-Layer And Pad P1-1(3519.362mil,2019mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P1-2(3468.181mil,1999.315mil) on Multi-Layer And Pad P1-2(3468.181mil,2018.921mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P1-3(3417mil,1999.315mil) on Multi-Layer And Pad P1-3(3417mil,2019mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P1-4(3365.425mil,1999.315mil) on Multi-Layer And Pad P1-4(3365.425mil,2019mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P2-1(3248.874mil,2049.493mil) on Multi-Layer And Pad P2-1(3253.969mil,2030.479mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P2-2(3199.457mil,2036.171mil) on Multi-Layer And Pad P2-2(3204.532mil,2017.232mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P2-3(3150mil,2023mil) on Multi-Layer And Pad P2-3(3155.095mil,2003.986mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P2-4(3100.182mil,2009.651mil) on Multi-Layer And Pad P2-4(3105.277mil,1990.637mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P3-1(3784.437mil,1992.754mil) on Multi-Layer And Pad P3-1(3789.532mil,2011.768mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P3-2(3735mil,2006mil) on Multi-Layer And Pad P3-2(3740.075mil,2024.938mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P3-3(3685.563mil,2019.247mil) on Multi-Layer And Pad P3-3(3690.658mil,2038.261mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P3-4(3635.745mil,2032.595mil) on Multi-Layer And Pad P3-4(3640.84mil,2051.61mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P4-1(3810mil,1739.819mil) on Multi-Layer And Pad P4-1(3829.685mil,1739.819mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P4-2(3810mil,1791mil) on Multi-Layer And Pad P4-2(3829.606mil,1791mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P4-3(3810mil,1842.181mil) on Multi-Layer And Pad P4-3(3829.685mil,1842.181mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P4-4(3810mil,1893.756mil) on Multi-Layer And Pad P4-4(3829.685mil,1893.756mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P5-1(3061.315mil,1891.181mil) on Multi-Layer And Pad P5-1(3081mil,1891.181mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P5-2(3061.394mil,1840mil) on Multi-Layer And Pad P5-2(3081mil,1840mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P5-3(3061.315mil,1788.819mil) on Multi-Layer And Pad P5-3(3081mil,1788.819mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 9.842mil) Between Pad P5-4(3061.315mil,1737.244mil) on Multi-Layer And Pad P5-4(3081mil,1737.244mil) on Multi-Layer Pad/Via Touching Holes
+Rule Violations :20
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (2.561mil < 5mil) Between Pad P5-2(3101.63mil,1840mil) on Multi-Layer And Text "J1" (3198mil,1766mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [2.561mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad P5-3(3102.457mil,1788.976mil) on Multi-Layer And Text "J1" (3198mil,1766mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Track (3718mil,1863mil)(3788.567mil,1863mil) on Bottom Layer 
+Rule Violations :1
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Arc (3202mil,1490.976mil) on Bottom Overlay And Board Edge 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 7.874mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3061.315mil,1788.819mil)(3081mil,1788.819mil) on Top Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 7.874mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3081mil,1788.819mil)(3102.457mil,1788.819mil) on Top Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 7.874mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3417mil,1999.315mil)(3417mil,2019mil) on Top Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 7.874mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3417mil,2019mil)(3417mil,2059mil) on Top Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 7.874mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (3789.532mil,2011.768mil)(3840.232mil,2011.768mil) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (1.812mil < 7.874mil) Between Board Edge And Track (3810mil,1668.953mil)(3810mil,1692.575mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (1.812mil < 7.874mil) Between Board Edge And Track (3810mil,1668.953mil)(3829.685mil,1668.953mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (1.812mil < 7.874mil) Between Board Edge And Track (3829.685mil,1668.953mil)(3829.685mil,1692.575mil) on Top Overlay 
+Rule Violations :9
+
+Processing Rule : Room expansion (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('expansion'))
+   Violation between Room Definition: Between Component J1-DF12NB(3.0)-20DS-0.5V(51) (3290.583mil,1622.866mil) on Bottom Layer And Room expansion (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('expansion')) 
+   Violation between Room Definition: Between Component P1-vertical_4pos_conn (3519.362mil,2019mil) on Top Layer And Room expansion (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('expansion')) 
+   Violation between Room Definition: Between Component P2-vertical_4pos_conn (3248.874mil,2049.493mil) on Top Layer And Room expansion (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('expansion')) 
+   Violation between Room Definition: Between Component P3-vertical_4pos_conn (3789.532mil,2011.768mil) on Top Layer And Room expansion (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('expansion')) 
+   Violation between Room Definition: Between Component P4-vertical_4pos_conn (3829.685mil,1739.819mil) on Top Layer And Room expansion (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('expansion')) 
+   Violation between Room Definition: Between Component P5-vertical_4pos_conn (3061.315mil,1891.181mil) on Top Layer And Room expansion (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('expansion')) 
+   Violation between Room Definition: Between Room expansion (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('expansion')) And SMT SIP Component P7-vertical_4pos_conn (3231mil,1888.181mil) on Top Layer 
+   Violation between Room Definition: Between Room expansion (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('expansion')) And SMT Small Component R1-ERJ3EKF1002V (3303mil,1786mil) on Bottom Layer 
+   Violation between Room Definition: Between Room expansion (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('expansion')) And SMT Small Component R2-ERJ3EKF1002V (3415mil,1786mil) on Bottom Layer 
+Rule Violations :9
+
+Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 258
+Waived Violations : 0
+Time Elapsed        : 00:00:01
